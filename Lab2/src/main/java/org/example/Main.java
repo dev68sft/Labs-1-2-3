@@ -8,7 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
 
-        System.out.println("Step 1");
+        System.out.println("Step 2");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
