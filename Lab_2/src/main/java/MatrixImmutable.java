@@ -80,6 +80,7 @@ public class MatrixImmutable extends Matrix{
     public MatrixImmutable set_table_im(double[][] v){
         MatrixImmutable ret=new MatrixImmutable(v);
         return ret;
+
     }
     @Override
     public void set_element(int r, int c, double v){
